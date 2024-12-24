@@ -1,64 +1,21 @@
-# 👋 Hello! I'm **Dhruval Shah**
+# 💫 About Me:
+👋 Hello! I'm Dhruval Shah<br>I'm a Computer Engineering student with a strong passion for full-stack development.<br>I specialize in building scalable, responsive web applications and love tackling complex problems.<br>Eager to learn and contribute, I'm actively exploring new technologies to develop creative solutions that drive innovation.<br><br>🚀 What I Do<br>Develop full-stack web apps using the MERN stack (MongoDB, Express, React, Node.js).<br>Design and implement RESTful APIs and manage databases (MongoDB, MySQL).<br>Write clean, efficient code while focusing on creating great user experiences.<br>🌱 Currently Learning<br>Advanced algorithms and data structures.<br>Optimizing web performance and improving scalability.<br>Exploring cloud technologies and DevOps.<br>🌟 Strengths<br>Strong problem-solving skills and passion for learning.<br>Comfortable working independently or in teams.<br>Detail-oriented, with a focus on quality and performance.<br>💬 Let’s Connect<br>Feel free to check out my repositories, contribute to open-source, or just drop me a message if you're interested in collaborating!<br><br>✨ Fun Fact<br>I’m always looking for new ways to learn and create. Let’s build something awesome together! 🚀<br><br>🏆 Achievements<br>Top 5 in Stackhack 2.0, Catalyst Coders<br>Developed a web app with React and Node.js, featuring admin dashboards and a reservation system.<br><br>Hack The Mountains 5.0<br>Collaborated with a team to develop innovative solutions using cutting-edge technologies.<br><br>Smart India Hackathon 2024<br>Participated in the national-level hackathon, contributing to innovative solutions in the tech space.
 
-I'm a **Computer Engineering student** with a strong passion for **full-stack development**.  
-I specialize in building **scalable**, **responsive web applications** and love tackling **complex problems**.  
-Eager to learn and contribute, I'm actively exploring **new technologies** to develop creative solutions that drive innovation.
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dhruval4_shah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhruval-shah-55ab18251/) 
 
-## 🚀 **What I Do**
-- Develop **full-stack web apps** using the **MERN stack** (MongoDB, Express, React, Node.js).
-- Design and implement **RESTful APIs** and manage **databases** (MongoDB, MySQL).
-- Write **clean**, **efficient code** while focusing on creating **great user experiences**.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DhruvalShah05 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DhruvalShah05 &theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvalShah05 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-## 🌱 **Currently Learning**
-- Advanced **algorithms** and **data structures**.
-- Optimizing **web performance** and improving **scalability**.
-- Exploring **cloud technologies** and **DevOps**.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=DhruvalShah05 &theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=DhruvalShah05 &icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌟 **Strengths**
-- Strong **problem-solving** skills and passion for learning.
-- Comfortable working **independently** or in **teams**.
-- **Detail-oriented** with a focus on **quality** and **performance**.
-
----
-
-## 💬 **Let’s Connect**
-Feel free to check out my repositories, contribute to open-source, or just drop me a message if you're interested in collaborating!
-
----
-
-### 🔗 **Links**:
-- **[LinkedIn](https://www.linkedin.com/in/dhruval4-shah)**  
-- **[GitHub Repositories](https://github.com/dhruval4-shah)**  
-- **[Leetcode](https://leetcode.com/dhruval4_shah)**  
-- **[CodeChef](https://www.codechef.com/users/dhruval4_shah)**  
-
----
-
-## ✨ **Fun Fact**:
-I’m always looking for new ways to **learn** and **create**. Let’s build something awesome together! 🚀
-
-
----
-
-## 🏆 **Achievements**:
-- **Top 5 in Stackhack 2.0**, Catalyst Coders  
-   Developed a web app with **React** and **Node.js**, featuring **admin dashboards** and a **reservation system**.
-  
-- **Hack The Mountains 5.0**  
-   Collaborated with a team to develop innovative solutions using cutting-edge technologies.
-
-- **Smart India Hackathon 2024**  
-   Participated in the national-level hackathon, contributing to innovative solutions in the tech space.
-
----
-
-
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
