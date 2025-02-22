@@ -37,6 +37,7 @@ Feel free to check out my repositories, contribute to open-source, or just drop 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dhruval4_shah)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruval-shah-55ab18251/)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/dhruval_shah_0403/)  
+[![X](https://img.shields.io/badge/X-%2300A7E1.svg?logo=x&logoColor=white)](https://x.com/dhruval_shah_04)
 
 
 
