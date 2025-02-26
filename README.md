@@ -1,9 +1,17 @@
 # 💫 About Me:
 # 👋 Hello! I'm Dhruval Shah
 
-I'm a **Computer Engineering student** with a strong passion for **full-stack development**.  
-I specialize in building **scalable**, **responsive web applications** and love tackling **complex problems**.  
-Eager to learn and contribute, I'm actively exploring **new technologies** to develop creative solutions that drive innovation.
+# Hi there! 👋
+
+I’m a **Computer Engineering student** 🖥️ with a strong passion for **full-stack development**.
+
+I specialize in building **scalable**, **responsive web applications** 🌐 and enjoy tackling **complex problems** 💡.
+
+Eager to learn and contribute, I’m actively exploring **new technologies** ⚙️ to develop creative solutions that drive innovation.
+
+I am currently looking for **collaborative projects** 🤝 where I can apply my skills in **MERN stack** (MongoDB, Express.js, React, Node.js) 🖧 and **Data Structures & Algorithms (DSA)** 📊.
+
+If you're working on exciting projects or need help with problem-solving, feel free to reach out—I’d love to collaborate and contribute! 🚀
 
 ---
 
