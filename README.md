@@ -47,7 +47,7 @@ Feel free to check out my repositories, contribute to open-source, or just drop 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/dhruval_shah_0403/)  
 
 
-
+---
 
 
 # 💻 Tech Stack:
